@@ -1,4 +1,3 @@
-
 package com.example.gestorapps.data
 
 import android.app.AppOpsManager
